@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\eventmanagementsystem\\eventmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\eventmanagementsystem\\eventmanagementsystem\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\eventmanagementsystem\\eventmanagementsystem\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\eventmanagementsystem\\eventmanagementsystem\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\eventmanagementsystem\\eventmanagementsystem\\eventmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53C8D732-734E-4FEC-A209-F7B52F423A82}|EventManagementSystem\\EventManagementSystem.csproj|solutionrelative:eventmanagementsystem\\eventmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\Logger.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem\\Logger.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\Logger.cs",
+              "RelativeToolTip": "EventManagementSystem\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T22:09:17.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\Event.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem\\Event.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\Event.cs",
+              "RelativeToolTip": "EventManagementSystem\\Event.cs",
+              "ViewState": "AQIAABgAAADA+v////8kwCAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:50:58.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\EventManager.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem\\EventManager.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\EventManager.cs",
+              "RelativeToolTip": "EventManagementSystem\\EventManager.cs",
+              "ViewState": "AQIAAEMAAACAXWZmZmYrwEcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T20:00:21.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EventManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\Program.cs",
+              "RelativeToolTip": "EventManagementSystem\\Program.cs",
+              "ViewState": "AQIAAL8AAAAALgAAAAAowHoBAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:50:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventManagementSystem",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\EventManagementSystem.csproj",
+              "RelativeDocumentMoniker": "EventManagementSystem\\EventManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\EventManagementSystem\\EventManagementSystem\\EventManagementSystem.csproj",
+              "RelativeToolTip": "EventManagementSystem\\EventManagementSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T19:56:00.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

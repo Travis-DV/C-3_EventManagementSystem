@@ -1,0 +1,14 @@
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\bin\Release\net8.0\EventManagementSystem.exe
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\bin\Release\net8.0\EventManagementSystem.deps.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\bin\Release\net8.0\EventManagementSystem.runtimeconfig.json
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\bin\Release\net8.0\EventManagementSystem.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\bin\Release\net8.0\EventManagementSystem.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\obj\Release\net8.0\EventManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\obj\Release\net8.0\EventManagementSystem.AssemblyInfoInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\obj\Release\net8.0\EventManagementSystem.AssemblyInfo.cs
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\obj\Release\net8.0\EventManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\obj\Release\net8.0\EventManagementSystem.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\obj\Release\net8.0\refint\EventManagementSystem.dll
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\obj\Release\net8.0\EventManagementSystem.pdb
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\obj\Release\net8.0\EventManagementSystem.genruntimeconfig.cache
+C:\Users\travis\OneDrive - Findley\Documents\Github\EventManagementSystem\EventManagementSystem\obj\Release\net8.0\ref\EventManagementSystem.dll
